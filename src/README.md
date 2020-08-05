@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   Nathan expansion: {{ npm_expansion }}
+   Nathan expansion: {{ nathan_expansion }}
    <br />
    github readme stats theme: {{ github_readme_stats_theme }}
   </p>

@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Needlessly Promiscuous,  Modularize!
+   nathan expansion: Needlessly Promiscuous,  Modularize!
    <br />
    github readme stats theme: onedark
   </p>
