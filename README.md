@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noun/Pronoun Mix-up
+   npm expansion: Neoclassical Programming Multitude
    <br />
    github readme stats theme: cobalt
   </p>
