@@ -29,9 +29,6 @@ jobs:
       run: node update.js
         
     - name: Push
-      run: |
-        git config user.name "nthnchu-bot"
-        git config user.email "70061530+nthnchu-bot@users.noreply.github.com"
-        git add README.md
-        git commit -m "Update README.md"
-        git push https://nthnchu-bot:${{ secrets.TOKEN }}@github.com/nthnchu/nthnchu.git master
+      env:
+        TOKEN: ${{ secrets.TOKEN }}
+      run: bash update.sh
