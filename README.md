@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nice Paintings,  Mondrian
+   npm expansion: Nobody Prefers Margarine
    <br />
    github readme stats theme: cobalt
   </p>
