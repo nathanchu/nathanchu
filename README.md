@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Native Package Manager
+   npm expansion: Nifty Poutine Meal
    <br />
    github readme stats theme: tokyonight
   </p>
