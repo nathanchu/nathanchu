@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nourishing Plushie Monster
+   npm expansion: N00b Pwn M3
    <br />
    github readme stats theme: prussian
   </p>
