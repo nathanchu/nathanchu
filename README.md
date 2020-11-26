@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neurophysiologically Pseudoscientific Manatee
+   npm expansion: Novice Prime Minister
    <br />
    github readme stats theme: cobalt
   </p>
