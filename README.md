@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Now Packing Magic
+   npm expansion: Neutron Polarization Manipulator
    <br />
    github readme stats theme: prussian
   </p>
