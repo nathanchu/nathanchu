@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Network Performance Monitor
+   npm expansion: Neurotic Programmer Masquerade
    <br />
    github readme stats theme: solarized-light
   </p>
