@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Norwegian Parcel Mail
+   npm expansion: Nocturnal Prancing Mosquito
    <br />
    github readme stats theme: blue-green
   </p>
