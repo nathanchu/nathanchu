@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Prancing Mosquito
+   npm expansion: No Punches Made
    <br />
    github readme stats theme: blue-green
   </p>
