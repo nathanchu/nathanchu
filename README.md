@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nifty Pony Merchandise
+   npm expansion: Nothing Prevents Misery
    <br />
    github readme stats theme: highcontrast
   </p>
