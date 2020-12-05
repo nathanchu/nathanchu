@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nobody Packages More
+   npm expansion: Nested Parenthetical Madness
    <br />
    github readme stats theme: vue
   </p>
