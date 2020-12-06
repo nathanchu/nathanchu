@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noosphere Possibilities Maximized
+   npm expansion: Neptunian Parity Mnemonic
    <br />
    github readme stats theme: cobalt
   </p>
