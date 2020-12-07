@@ -5,12 +5,12 @@
    github readme stats theme: {{ github_readme_stats_theme }}
   </p>
   <h1 align="center">
-    Nathan Chu&nbsp;&nbsp;&nbsp;<a href="https://nathanchu.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/nthnchu"><img height="24" width="24" src="https://raw.githubusercontent.com/nthnchu/nthnchu/master/assets/github-mark.svg" /></a></h1>
+    Nathan Chu&nbsp;&nbsp;&nbsp;<a href="https://nathanchu.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nathanchu/nthnchu/master/assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/nathanchu"><img height="24" width="24" src="https://raw.githubusercontent.com/nathanchu/nthnchu/master/assets/github-mark.svg" /></a></h1>
   <div>
-    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.nthnchu.vercel.app/api?username=nthnchu&cache_seconds=1800&count_private=true&include_all_commits=true&line_height=27&theme={{ github_readme_stats_theme }}&show_icons=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=nthnchu&cache_seconds=1800&theme={{ github_readme_stats_theme }}" />
+    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.nthnchu.vercel.app/api?username=nathanchu&cache_seconds=1800&count_private=true&include_all_commits=true&line_height=27&theme={{ github_readme_stats_theme }}&show_icons=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=nathanchu&cache_seconds=1800&theme={{ github_readme_stats_theme }}" />
     <br />
-    <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nthnchu&cache_seconds=1800&layout=compact&theme={{ github_readme_stats_theme }}" />
+    <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=nathanchu&cache_seconds=1800&layout=compact&theme={{ github_readme_stats_theme }}" />
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
   </div>
 </div>
