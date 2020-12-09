@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newton's Preposterous Miscalculation
+   npm expansion: Neptunium,  Promethium,  Manganese
    <br />
    github readme stats theme: great-gatsby
   </p>
