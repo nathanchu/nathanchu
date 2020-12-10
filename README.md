@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Naming Prosecution Mitigator
+   npm expansion: nuǝɯ pǝɥsᴉꞁod mǝu
    <br />
    github readme stats theme: darcula
   </p>
