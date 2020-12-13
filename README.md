@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newly Picked Mangoes
+   npm expansion: Nunjucks Powers Mozilla
    <br />
    github readme stats theme: kacho_ga
   </p>
