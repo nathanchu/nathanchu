@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nightmarish Pawnshop Mystic
+   npm expansion: Neoanthropic Preternatural Murmurings
    <br />
    github readme stats theme: chartreuse-dark
   </p>
