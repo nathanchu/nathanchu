@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: New Phone Models
+   npm expansion: Need Private Modules
    <br />
    github readme stats theme: kacho_ga
   </p>
