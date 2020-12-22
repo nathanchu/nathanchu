@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Novice Prime Minister
+   npm expansion: Notorious Party Muppets
    <br />
    github readme stats theme: material-palenight
   </p>
