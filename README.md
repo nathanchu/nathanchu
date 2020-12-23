@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Prancing Mosquito
+   npm expansion: National Preventative Mechanism
    <br />
    github readme stats theme: synthwave
   </p>
