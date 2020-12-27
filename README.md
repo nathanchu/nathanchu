@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node Packaged Masterfully
+   npm expansion: npm private modules
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
