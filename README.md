@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neoprene Party Masks
+   npm expansion: Nightly Procrastination Machine
    <br />
    github readme stats theme: flag-india
   </p>
