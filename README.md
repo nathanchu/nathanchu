@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Need Prize Money
+   npm expansion: Nap Power: Maximum
    <br />
    github readme stats theme: onedark
   </p>
