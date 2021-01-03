@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: NaNoWriMo Promotes Manuscription
+   npm expansion: Nomad Packaging Mechanism
    <br />
    github readme stats theme: solarized-light
   </p>
