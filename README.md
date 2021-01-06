@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Needlessly Provoking Marsupials
+   npm expansion: Neatly Placed Mail
    <br />
    github readme stats theme: material-palenight
   </p>
