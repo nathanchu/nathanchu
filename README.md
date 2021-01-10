@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Network Printer Manager
+   npm expansion: Nightly Pocket Measurement
    <br />
    github readme stats theme: vue
   </p>
