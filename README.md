@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neglected Parking Meter
+   npm expansion: Network Pipe Manufacturer
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
