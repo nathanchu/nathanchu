@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node Pizza Maker
+   npm expansion: Nitroglycerin Pickle Machine
    <br />
    github readme stats theme: gruvbox
   </p>
