@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notoriously Problematic Merge
+   npm expansion: Newly Pregnant Mom
    <br />
    github readme stats theme: highcontrast
   </p>
