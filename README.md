@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narnia Produced Magic
+   npm expansion: Neglected Parking Meter
    <br />
    github readme stats theme: maroongold
   </p>
