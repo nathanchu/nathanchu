@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nights Pay More
+   npm expansion: Neverending Prototype Mode
    <br />
    github readme stats theme: vue
   </p>
