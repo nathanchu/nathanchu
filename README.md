@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nasty Pirate Macaw
+   npm expansion: Node Package Master
    <br />
    github readme stats theme: jolly
   </p>
