@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nourishing Plushie Monster
+   npm expansion: Nitrogen Peroxide Monoxide
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
