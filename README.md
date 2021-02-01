@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narwhals Prolong Mischief
+   npm expansion: Novices Plagiarizing Mozart
    <br />
    github readme stats theme: monokai
   </p>
