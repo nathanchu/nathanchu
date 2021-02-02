@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: New Phone Models
+   npm expansion: Nanotechnology Promises Much
    <br />
    github readme stats theme: graywhite
   </p>
