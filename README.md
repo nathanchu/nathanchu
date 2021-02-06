@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nominally Patriotic Meathead
+   npm expansion: Novel Personal Mantras
    <br />
    github readme stats theme: graywhite
   </p>
