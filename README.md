@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newbies Pass Muster
+   npm expansion: Nearly Perpendicular Macaroons
    <br />
    github readme stats theme: cobalt
   </p>
