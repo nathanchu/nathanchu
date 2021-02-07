@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notwithstanding Previous Misdemeanors
+   npm expansion: Nearly Perfect Mediocracy
    <br />
    github readme stats theme: monokai
   </p>
