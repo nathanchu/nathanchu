@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnally Psychologizing Millipede
+   npm expansion: Neatly Packaged Modules
    <br />
    github readme stats theme: chartreuse-dark
   </p>
