@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nerdy People Matriculate
+   npm expansion: Natty Precise Maverick
    <br />
    github readme stats theme: calm
   </p>
