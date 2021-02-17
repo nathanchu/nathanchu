@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Ninja Power Manifesto
+   npm expansion: Numeric Production Mechanism
    <br />
    github readme stats theme: slateorange
   </p>
