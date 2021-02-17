@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neurologically Paralyzing Mouseovers
+   npm expansion: No Padding Module
    <br />
    github readme stats theme: buefy
   </p>
