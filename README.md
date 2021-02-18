@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neo's Personal Matrix
+   npm expansion: No Pants,  Mom
    <br />
    github readme stats theme: material-palenight
   </p>
