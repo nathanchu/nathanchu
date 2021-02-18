@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node's Package Magician
+   npm expansion: Nebulous Puffy Marshmallows
    <br />
    github readme stats theme: material-palenight
   </p>
