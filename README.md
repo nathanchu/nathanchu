@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Non-Polynomial Mantissa
+   npm expansion: Norse Power Metal
    <br />
    github readme stats theme: onedark
   </p>
