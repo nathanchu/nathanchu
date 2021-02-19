@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newton's Programmatic Measurements
+   npm expansion: Nominal Pizza Masticator
    <br />
    github readme stats theme: kacho_ga
   </p>
