@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Non-Partisan Magicians
+   npm expansion: Neoclassical Piano Montage
    <br />
    github readme stats theme: jolly
   </p>
