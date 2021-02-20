@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Now,  Please Meander
+   npm expansion: Neoclassical Philosophic Musings
    <br />
    github readme stats theme: kacho_ga
   </p>
