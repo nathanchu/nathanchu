@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newtonian Physics Mockumentary
+   npm expansion: Nomming Peanut M&M's
    <br />
    github readme stats theme: darcula
   </p>
