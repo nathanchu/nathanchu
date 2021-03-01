@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Punch Manticores
+   npm expansion: National Poo Museum
    <br />
    github readme stats theme: algolia
   </p>
