@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Now Paging Maciej
+   npm expansion: Newbies Pass Muster
    <br />
    github readme stats theme: yeblu
   </p>
