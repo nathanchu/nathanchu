@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Negatively Proportional Model
+   npm expansion: No Possible Meaning
    <br />
    github readme stats theme: graywhite
   </p>
