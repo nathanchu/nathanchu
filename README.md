@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neo's Personal Matrix
+   npm expansion: Node Plus Me
    <br />
    github readme stats theme: vue-dark
   </p>
