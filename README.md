@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notorious Penguin Magicians
+   npm expansion: Node's Package Magician
    <br />
    github readme stats theme: dark
   </p>
