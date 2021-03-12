@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nearly Pure Mustard
+   npm expansion: Newly Picked Mangoes
    <br />
    github readme stats theme: midnight-purple
   </p>
