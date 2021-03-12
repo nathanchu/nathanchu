@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newline Proliferating Maniac
+   npm expansion: Nerds Produce Money
    <br />
    github readme stats theme: graywhite
   </p>
