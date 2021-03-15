@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Punch Manticores
+   npm expansion: Nosey Party Murderer
    <br />
    github readme stats theme: calm
   </p>
