@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nutella with Pepperoni and Mushrooms
+   npm expansion: Neutrinos Peludos Magnéticos
    <br />
    github readme stats theme: chartreuse-dark
   </p>
