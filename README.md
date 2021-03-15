@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Non Programming Manager
+   npm expansion: Necessitates Proper Modularity
    <br />
    github readme stats theme: onedark
   </p>
