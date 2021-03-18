@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Please Meanies
+   npm expansion: Neighbor's Preppy Maltese
    <br />
    github readme stats theme: great-gatsby
   </p>
