@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nuns Playing Mozart
+   npm expansion: Network Printer Manager
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
