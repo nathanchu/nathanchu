@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nostalgic Pizza Manager
+   npm expansion: No Particular Method
    <br />
    github readme stats theme: bear
   </p>
