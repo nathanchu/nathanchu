@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nautilus: Pelagic Mollusc
+   npm expansion: Non-Polite Mother
    <br />
    github readme stats theme: synthwave
   </p>
