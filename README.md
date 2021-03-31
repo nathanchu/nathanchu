@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nero Punished Miscreants
+   npm expansion: Neural Processing Mechanisms
    <br />
    github readme stats theme: tokyonight
   </p>
