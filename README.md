@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Napping Panda Missionaries
+   npm expansion: No Problem,  Meatbag
    <br />
    github readme stats theme: prussian
   </p>
