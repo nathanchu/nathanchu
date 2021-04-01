@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nanobots Producing Megastructures
+   npm expansion: Noodly Pasta Maker
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
