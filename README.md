@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nonsense Placement Mandatory
+   npm expansion: Nixon's Pants Missing
    <br />
    github readme stats theme: flag-india
   </p>
