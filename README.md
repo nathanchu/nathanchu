@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Norvell,  Please Merge
+   npm expansion: Naivete Precedes Misrepresentation
    <br />
    github readme stats theme: chartreuse-dark
   </p>
