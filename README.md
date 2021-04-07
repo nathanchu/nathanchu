@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Namely,  Pickled Meatballs
+   npm expansion: Never Propel Marmalade
    <br />
    github readme stats theme: maroongold
   </p>
