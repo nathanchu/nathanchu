@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Navel Pondering Mantra
+   npm expansion: Nearly Perfect Mediocracy
    <br />
    github readme stats theme: react
   </p>
