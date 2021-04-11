@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Prancing Mosquito
+   npm expansion: Nodeschool Public Materials
    <br />
    github readme stats theme: darcula
   </p>
