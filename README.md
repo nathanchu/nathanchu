@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newbies Pass Muster
+   npm expansion: Net Possibility Multiplier
    <br />
    github readme stats theme: prussian
   </p>
