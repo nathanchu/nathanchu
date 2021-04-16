@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nomadic People Migration
+   npm expansion: Nihil Prius Modulus
    <br />
    github readme stats theme: nightowl
   </p>
