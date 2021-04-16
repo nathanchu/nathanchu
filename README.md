@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newman's Personal Motorcade
+   npm expansion: Nomadic People Migration
    <br />
    github readme stats theme: nightowl
   </p>
