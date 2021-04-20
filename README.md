@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node Package Master
+   npm expansion: Neural Processing Mechanisms
    <br />
    github readme stats theme: react
   </p>
