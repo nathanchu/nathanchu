@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noun/Pronoun Mix-up
+   npm expansion: Nano Pico Micro
    <br />
    github readme stats theme: darcula
   </p>
