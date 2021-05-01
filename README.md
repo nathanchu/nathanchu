@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Now Playing Mario
+   npm expansion: Noun/Pronoun Mix-up
    <br />
    github readme stats theme: darcula
   </p>
