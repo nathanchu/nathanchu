@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nourishing Plushie Monster
+   npm expansion: Nomadic People Migration
    <br />
    github readme stats theme: omni
   </p>
