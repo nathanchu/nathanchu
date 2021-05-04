@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nuclearly Potent Moonshine
+   npm expansion: Neptune: Planet or Myth?
    <br />
    github readme stats theme: cobalt
   </p>
