@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Password Management
+   npm expansion: Nobody Packages More
    <br />
    github readme stats theme: kacho_ga
   </p>
