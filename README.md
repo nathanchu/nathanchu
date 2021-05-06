@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Pummel Muskoxen
+   npm expansion: Nonagons Please Me
    <br />
    github readme stats theme: nightowl
   </p>
