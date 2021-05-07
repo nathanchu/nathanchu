@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nashville Plays Music
+   npm expansion: Neoclassical Piano Montage
    <br />
    github readme stats theme: gruvbox
   </p>
