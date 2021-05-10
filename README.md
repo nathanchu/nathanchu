@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: npm private modules
+   npm expansion: Narcissistic,  Perfectly Modest
    <br />
    github readme stats theme: solarized-light
   </p>
