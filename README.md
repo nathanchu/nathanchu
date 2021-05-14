@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nervously Proposing Marriage
+   npm expansion: Nine Percent Milk
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
