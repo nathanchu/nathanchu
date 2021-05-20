@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newly Practicing Mortician
+   npm expansion: Namby Pamby Magicians
    <br />
    github readme stats theme: algolia
   </p>
