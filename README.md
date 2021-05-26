@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Napoleonic Political Magnificence
+   npm expansion: Neurological Phenomenon Multiplexer
    <br />
    github readme stats theme: shades-of-purple
   </p>
