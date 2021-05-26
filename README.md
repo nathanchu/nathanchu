@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neon Power Mains
+   npm expansion: next() Packaged Middleware
    <br />
    github readme stats theme: highcontrast
   </p>
