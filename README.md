@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: NASA Proceeds to Mars
+   npm expansion: Narcissistic Pickle Meister
    <br />
    github readme stats theme: vue
   </p>
