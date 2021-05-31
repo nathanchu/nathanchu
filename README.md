@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neodymium Plated Magnet
+   npm expansion: National Party Month
    <br />
    github readme stats theme: blue-green
   </p>
