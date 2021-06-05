@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node's Play Mate
+   npm expansion: Now Paging Maciej
    <br />
    github readme stats theme: radical
   </p>
