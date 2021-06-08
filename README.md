@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nevertheless Published Mine
+   npm expansion: noop(); pop(); map();
    <br />
    github readme stats theme: darcula
   </p>
