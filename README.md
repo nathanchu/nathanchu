@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Now Packing Magic
+   npm expansion: Not Particularly Meaningful
    <br />
    github readme stats theme: monokai
   </p>
