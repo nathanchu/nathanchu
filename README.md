@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nobody Pays (for) Magazines
+   npm expansion: Nonlinear Programming Methods
    <br />
    github readme stats theme: slateorange
   </p>
