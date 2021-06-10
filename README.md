@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neatly Placed Mail
+   npm expansion: Need Prize Money
    <br />
    github readme stats theme: midnight-purple
   </p>
