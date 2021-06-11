@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nifty Procrastination Machine
+   npm expansion: Neverending Plethora of Modules
    <br />
    github readme stats theme: material-palenight
   </p>
