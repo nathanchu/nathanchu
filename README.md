@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nanobots Protecting Microbots
+   npm expansion: Nietzsche's Preposterous Moustache
    <br />
    github readme stats theme: great-gatsby
   </p>
