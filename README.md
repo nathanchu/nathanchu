@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nadie Programa más
+   npm expansion: Ninja Parading Musically
    <br />
    github readme stats theme: chartreuse-dark
   </p>
