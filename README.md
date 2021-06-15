@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nothing Plus Modules
+   npm expansion: Nucleic Photon Magnetizer
    <br />
    github readme stats theme: flag-india
   </p>
