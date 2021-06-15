@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nary a Package Missing
+   npm expansion: Ninety Proof Mezcal
    <br />
    github readme stats theme: prussian
   </p>
