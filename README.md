@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Prancing Mosquito
+   npm expansion: noop(); pop(); map();
    <br />
    github readme stats theme: highcontrast
   </p>
