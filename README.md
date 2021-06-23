@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Not Parents' Money
+   npm expansion: Norwegian Polka Music
    <br />
    github readme stats theme: vue
   </p>
