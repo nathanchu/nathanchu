@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neatly Placed Mail
+   npm expansion: Nucleic Phosphate Modifier
    <br />
    github readme stats theme: blueberry
   </p>
