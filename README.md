@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nihilistic Party Mantra
+   npm expansion: Nimble Package Maestros
    <br />
    github readme stats theme: midnight-purple
   </p>
