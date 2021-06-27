@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nine Parsecs from Milwaukee
+   npm expansion: Nunjucks Powers Mozilla
    <br />
    github readme stats theme: yeblu
   </p>
