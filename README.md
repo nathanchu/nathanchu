@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neolithic Programming Machine
+   npm expansion: Nutmeg Plundering Muse
    <br />
    github readme stats theme: solarized-light
   </p>
