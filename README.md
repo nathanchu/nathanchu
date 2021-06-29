@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narnia Produced Magic
+   npm expansion: Natural Potato Magnet
    <br />
    github readme stats theme: solarized-light
   </p>
