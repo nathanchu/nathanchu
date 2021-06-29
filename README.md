@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Please Meanies
+   npm expansion: Never Prank Me
    <br />
    github readme stats theme: darcula
   </p>
