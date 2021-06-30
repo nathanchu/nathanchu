@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: North Pole Merriment
+   npm expansion: Nutritious Potato Munchies
    <br />
    github readme stats theme: synthwave
   </p>
