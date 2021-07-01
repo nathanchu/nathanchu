@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nerdy Poly Millionaires
+   npm expansion: Nettle Pie Market
    <br />
    github readme stats theme: jolly
   </p>
