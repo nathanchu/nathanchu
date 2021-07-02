@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noodles,  Poodles and More!
+   npm expansion: Norwegian Parcel Mail
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
