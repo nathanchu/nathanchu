@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: New Priority Mail
+   npm expansion: Neovictorian Paisley Menswear
    <br />
    github readme stats theme: gruvbox
   </p>
