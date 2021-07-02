@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newly Pregnant Mom
+   npm expansion: Noosphere Possibilities Maximized
    <br />
    github readme stats theme: midnight-purple
   </p>
