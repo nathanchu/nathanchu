@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Needlessly Promiscuous,  Modularize!
+   npm expansion: Nuclear Powered Mushroom
    <br />
    github readme stats theme: algolia
   </p>
