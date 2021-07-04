@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nosferatu's Pace Maker
+   npm expansion: Neverending Puppy Marathon
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
