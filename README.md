@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nunchaku Pizza Master
+   npm expansion: Nebulous Plasma Muffin
    <br />
    github readme stats theme: slateorange
   </p>
