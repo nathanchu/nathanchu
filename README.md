@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: National Palace Museum
+   npm expansion: Normally Pleasant Mixture
    <br />
    github readme stats theme: bear
   </p>
