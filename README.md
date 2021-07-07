@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nefarious Pickle Muncher
+   npm expansion: Narnia Protect Me
    <br />
    github readme stats theme: cobalt
   </p>
