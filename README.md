@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Needlessly Promiscuous,  Modularize!
+   npm expansion: Nice Pottery Mug
    <br />
    github readme stats theme: dark
   </p>
