@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nothing's plumb meaningless
+   npm expansion: Nervous Penpal Message
    <br />
    github readme stats theme: highcontrast
   </p>
