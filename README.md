@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noncommital Premarital Mischief
+   npm expansion: Nine Pomeranian Monsters
    <br />
    github readme stats theme: omni
   </p>
