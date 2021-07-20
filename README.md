@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newly Pregnant Mom
+   npm expansion: Nautilus: Pelagic Mollusc
    <br />
    github readme stats theme: dark
   </p>
