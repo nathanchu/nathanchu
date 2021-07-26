@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nope,  prefer mopeds.
+   npm expansion: Non-Production Machines
    <br />
    github readme stats theme: jolly
   </p>
