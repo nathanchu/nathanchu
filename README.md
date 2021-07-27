@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nerdy Programmers Mingling
+   npm expansion: Next Popular Module
    <br />
    github readme stats theme: nightowl
   </p>
