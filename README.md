@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Novices Performing Miracles
+   npm expansion: Named Pipe Mechanism
    <br />
    github readme stats theme: blue-green
   </p>
