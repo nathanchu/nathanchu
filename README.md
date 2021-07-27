@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nosy Pinocchio Manners
+   npm expansion: Notify President Madagascar
    <br />
    github readme stats theme: radical
   </p>
