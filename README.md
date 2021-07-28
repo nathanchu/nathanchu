@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neatly Packaged Manuals
+   npm expansion: Node Promiscuous Modules
    <br />
    github readme stats theme: yeblu
   </p>
