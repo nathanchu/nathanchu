@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: New Personal Mail
+   npm expansion: Neat Paraskavedekatriaphobia's Meaning
    <br />
    github readme stats theme: vue
   </p>
