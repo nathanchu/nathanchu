@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nine Percent Milk
+   npm expansion: Nasty Popsicle Machine
    <br />
    github readme stats theme: buefy
   </p>
