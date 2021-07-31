@@ -19,7 +19,7 @@
 <div>
  <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
  <br />
- <b>
+ <!--<b>
   <ul>
    <li>
     🔭 I’m currently working on:
@@ -35,7 +35,7 @@
     <br />
     <a href="https://github.com/facebook/react"><img alt="react" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme={{ github_readme_stats_theme }}" /></a>
    </li>
-   <!--<li>
+   <li>
     👯 I’m looking to collaborate on ...
    </li>
    <li>
@@ -52,9 +52,9 @@
    </li>
    <li>
     ⚡ Fun fact: ...
-   </li>-->
+   </li>
   </ul>
- </b>
+ </b>-->
 </div>
 <!--
 **nathanchu/nathanchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
