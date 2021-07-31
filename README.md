@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Patronize Mothers
+   npm expansion: Neo's Personal Matrix
    <br />
    github readme stats theme: algolia
   </p>
