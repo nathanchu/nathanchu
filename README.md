@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neverending Perpetual Motion
+   npm expansion: Non-Potable Macchiato
    <br />
    github readme stats theme: darcula
   </p>
