@@ -1,16 +1,16 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neutered Paranoid Meerkat
+   npm expansion: Nutritious Pancake Mountain
    <br />
-   github readme stats theme: solarized-dark
+   github readme stats theme: tokyonight
   </p>
   <h1 align="center">
     Nathan Chu&nbsp;&nbsp;&nbsp;<a href="https://nathanchu.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nathanchu/nathanchu/master/assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/nathanchu"><img height="24" width="24" src="https://raw.githubusercontent.com/nathanchu/nathanchu/master/assets/github-mark.svg" /></a></h1>
   <div>
-    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.nathanchu.vercel.app/api?username=nathanchu&cache_seconds=1800&count_private=true&include_all_commits=true&line_height=27&theme=solarized-dark&show_icons=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.nathanchu.vercel.app/api/top-langs?username=nathanchu&cache_seconds=1800&theme=solarized-dark" />
+    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.nathanchu.vercel.app/api?username=nathanchu&cache_seconds=1800&count_private=true&include_all_commits=true&line_height=27&theme=tokyonight&show_icons=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.nathanchu.vercel.app/api/top-langs?username=nathanchu&cache_seconds=1800&theme=tokyonight" />
     <br />
-    <img alt="Top Languages" src="https://github-readme-stats.nathanchu.vercel.app/api/wakatime?username=nathanchu&cache_seconds=1800&layout=compact&theme=solarized-dark" />
+    <img alt="Top Languages" src="https://github-readme-stats.nathanchu.vercel.app/api/wakatime?username=nathanchu&cache_seconds=1800&layout=compact&theme=tokyonight" />
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
   </div>
 </div>
@@ -19,13 +19,13 @@
 <div>
  <h3>Hi There 👋! Welcome to my GitHub profile!</h3>
  <br />
- <b>
+ <!--<b>
   <ul>
    <li>
     🔭 I’m currently working on:
     <br />
     <br />
-    <a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=solarized-dark" /></a>
+    <a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=tokyonight" /></a>
    </li>
    <br />
    <br />
@@ -33,9 +33,9 @@
     🌱 I’m currently learning:
     <br />
     <br />
-    <a href="https://github.com/facebook/react"><img alt="react" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme=solarized-dark" /></a>
+    <a href="https://github.com/facebook/react"><img alt="react" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme=tokyonight" /></a>
    </li>
-   <!--<li>
+   <li>
     👯 I’m looking to collaborate on ...
    </li>
    <li>
@@ -52,9 +52,9 @@
    </li>
    <li>
     ⚡ Fun fact: ...
-   </li>-->
+   </li>
   </ul>
- </b>
+ </b>-->
 </div>
 <!--
 **nathanchu/nathanchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
