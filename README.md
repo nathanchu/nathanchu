@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neatly Packaged Magic
+   npm expansion: Newline Proliferating Maniac
    <br />
    github readme stats theme: blueberry
   </p>
