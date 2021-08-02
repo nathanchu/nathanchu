@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nevermore: a Poet's Mantra
+   npm expansion: Nuns Practicing Misanthropy
    <br />
    github readme stats theme: blue-green
   </p>
