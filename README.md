@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Programmer's Machine
+   npm expansion: Now Playing Mathcore
    <br />
    github readme stats theme: bear
   </p>
