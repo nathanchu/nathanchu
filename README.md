@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nixon's Pants Missing
+   npm expansion: Node Plus Me
    <br />
    github readme stats theme: nord
   </p>
