@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nicely Pruned Marigolds
+   npm expansion: Nantes Paradox Market
    <br />
    github readme stats theme: bear
   </p>
