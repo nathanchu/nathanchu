@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Numerous Philanthropic Misanthropes
+   npm expansion: Newton's Programmatic Measurements
    <br />
    github readme stats theme: material-palenight
   </p>
