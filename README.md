@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Negligible Psychological Misery
+   npm expansion: Neverending Pile of Messages
    <br />
    github readme stats theme: yeblu
   </p>
