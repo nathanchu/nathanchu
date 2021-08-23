@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nihilist Pocket Monsters
+   npm expansion: Next Phenomenal Microbrewery
    <br />
    github readme stats theme: maroongold
   </p>
