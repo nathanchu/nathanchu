@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nihilism Philisophy Major
+   npm expansion: Nuclear Powered Mushroom
    <br />
    github readme stats theme: maroongold
   </p>
