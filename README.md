@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nebulae Populate M83
+   npm expansion: Nano Pico Micro
    <br />
    github readme stats theme: merko
   </p>
