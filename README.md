@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noxious Plant Miasma
+   npm expansion: Nobody Preheats Microwaves
    <br />
    github readme stats theme: algolia
   </p>
