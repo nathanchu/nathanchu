@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noctiflorous Pansy Mulch
+   npm expansion: No Pants Mafia
    <br />
    github readme stats theme: chartreuse-dark
   </p>
