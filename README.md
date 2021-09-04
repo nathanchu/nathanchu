@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neovictorian Paisley Menswear
+   npm expansion: Newline Pending Merge
    <br />
    github readme stats theme: maroongold
   </p>
