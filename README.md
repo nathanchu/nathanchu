@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nicely Packaged Make
+   npm expansion: No Pants Monkey
    <br />
    github readme stats theme: tokyonight
   </p>
