@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nearly Perfect Mediocracy
+   npm expansion: Nail Polishing Minions
    <br />
    github readme stats theme: omni
   </p>
