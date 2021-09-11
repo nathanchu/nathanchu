@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nordic Panda Moor
+   npm expansion: Notorious Puppy Memes
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
