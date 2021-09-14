@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nuns Playing Monopoly
+   npm expansion: Newman's Personal Motorcade
    <br />
    github readme stats theme: graywhite
   </p>
