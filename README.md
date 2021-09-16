@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nanotech Parading Mars
+   npm expansion: No Padding Margin
    <br />
    github readme stats theme: vue-dark
   </p>
