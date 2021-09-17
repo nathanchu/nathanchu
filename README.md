@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nerdy Pun Mavens
+   npm expansion: Nerds Publishing Monstrosities
    <br />
    github readme stats theme: great-gatsby
   </p>
