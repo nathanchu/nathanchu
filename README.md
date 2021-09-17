@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nerds Publishing Monstrosities
+   npm expansion: NuGet Package Manager
    <br />
    github readme stats theme: great-gatsby
   </p>
