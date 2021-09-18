@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neatly Packaged Modules
+   npm expansion: Nobody's Perfect,  Man
    <br />
    github readme stats theme: nord
   </p>
