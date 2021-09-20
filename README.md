@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narcoleptic Pony Machine
+   npm expansion: Nucleophosmin
    <br />
    github readme stats theme: graywhite
   </p>
