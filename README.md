@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: National Palace Museum
+   npm expansion: Noah's Pairwise Manifest
    <br />
    github readme stats theme: ayu-mirage
   </p>
