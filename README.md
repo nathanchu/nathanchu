@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Poke Monkeys
+   npm expansion: Notorious Public Menace
    <br />
    github readme stats theme: merko
   </p>
