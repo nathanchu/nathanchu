@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Practitioners of Magic
+   npm expansion: Not Pictured: Mangoes
    <br />
    github readme stats theme: omni
   </p>
