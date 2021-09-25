@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nuclear Potato Monster
+   npm expansion: Nonlinear Performance Magnification
    <br />
    github readme stats theme: buefy
   </p>
