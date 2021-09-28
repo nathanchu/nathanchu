@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: NASA: Pluto Matters!
+   npm expansion: Nearly Picked Makefiles
    <br />
    github readme stats theme: highcontrast
   </p>
