@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nineties Pop Music
+   npm expansion: Naughty Panda Manga
    <br />
    github readme stats theme: vue
   </p>
