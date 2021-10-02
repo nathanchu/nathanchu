@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Napping Panda Missionaries
+   npm expansion: Nashville Plays Music
    <br />
    github readme stats theme: highcontrast
   </p>
