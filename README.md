@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Program Mad
+   npm expansion: Nuclear Powered Macros
    <br />
    github readme stats theme: prussian
   </p>
