@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nerd Play Mate
+   npm expansion: Non-Permeable Membrane
    <br />
    github readme stats theme: synthwave
   </p>
