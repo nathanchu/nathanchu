@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nitro Powered Motorcycles
+   npm expansion: Notable Pottery Manufacturer
    <br />
    github readme stats theme: vue-dark
   </p>
