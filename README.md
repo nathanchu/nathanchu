@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nightly Patch Machine
+   npm expansion: Ne Pas Manger!
    <br />
    github readme stats theme: flag-india
   </p>
