@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Potty Mouths
+   npm expansion: npm package manager
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
