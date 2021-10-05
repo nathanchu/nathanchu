@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nice Pottery Mug
+   npm expansion: Nondeterministic Postrequisite Metaprotocol
    <br />
    github readme stats theme: gotham
   </p>
