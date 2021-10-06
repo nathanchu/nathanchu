@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nine Pounds of Mayonnaise
+   npm expansion: Noodle Printing Machine
    <br />
    github readme stats theme: kacho_ga
   </p>
