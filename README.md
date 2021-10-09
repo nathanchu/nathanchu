@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narcoleptic Pasta Manufacturer
+   npm expansion: Napoleonic Panda Machine
    <br />
    github readme stats theme: bear
   </p>
