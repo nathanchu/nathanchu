@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nascent Plasticine Materialist
+   npm expansion: Node Package Manager
    <br />
    github readme stats theme: synthwave
   </p>
