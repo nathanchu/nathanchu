@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notoriously Punctual Manatee
+   npm expansion: Natively Pronounced Mandarin
    <br />
    github readme stats theme: react
   </p>
