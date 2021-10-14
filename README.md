@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nine Percent Milk
+   npm expansion: Noteworthy Programs Map
    <br />
    github readme stats theme: nord
   </p>
