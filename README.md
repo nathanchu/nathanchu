@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nomenclature Predictably Misunderstood
+   npm expansion: Nesting Penguins Molt
    <br />
    github readme stats theme: prussian
   </p>
