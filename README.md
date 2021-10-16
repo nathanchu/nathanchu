@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neat Pidgeon Manure
+   npm expansion: Nomnom Pumpernickle Muffins
    <br />
    github readme stats theme: gruvbox
   </p>
