@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nuclear Power Manager
+   npm expansion: Naive Props Mutation
    <br />
    github readme stats theme: material-palenight
   </p>
