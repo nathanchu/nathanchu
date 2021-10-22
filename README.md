@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nervous Penpal Message
+   npm expansion: Nostalgic Piano Music
    <br />
    github readme stats theme: great-gatsby
   </p>
