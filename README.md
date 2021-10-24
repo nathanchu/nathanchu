@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newsworthy Presidential Mistakes
+   npm expansion: Nettle Pie Market
    <br />
    github readme stats theme: solarized-dark
   </p>
