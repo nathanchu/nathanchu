@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: npm pretty much
+   npm expansion: Negligible Psychological Misery
    <br />
    github readme stats theme: nightowl
   </p>
