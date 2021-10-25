@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: NASA Planetary Mission
+   npm expansion: Nanoseconds Produce Minutes
    <br />
    github readme stats theme: highcontrast
   </p>
