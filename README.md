@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nobody Publish Monsters
+   npm expansion: Novel Planetary Movement
    <br />
    github readme stats theme: cobalt
   </p>
