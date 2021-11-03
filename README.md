@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nutritious Potato Munchies
+   npm expansion: Noah's Pairwise Manifest
    <br />
    github readme stats theme: jolly
   </p>
