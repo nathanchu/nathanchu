@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Naughty Platypus Memorabilia
+   npm expansion: Nonchalant Programming Master
    <br />
    github readme stats theme: nord
   </p>
