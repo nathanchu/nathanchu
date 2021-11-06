@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Plugins; Monolithic
+   npm expansion: Neurotic and Probably Misinformed
    <br />
    github readme stats theme: omni
   </p>
