@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neigh Purr Moo
+   npm expansion: NTFS Path Mockery
    <br />
    github readme stats theme: merko
   </p>
