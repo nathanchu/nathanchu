@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Perfectly Managed
+   npm expansion: Neurotic Programmer Masquerade
    <br />
    github readme stats theme: gotham
   </p>
