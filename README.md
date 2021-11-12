@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Negatively Proportional Model
+   npm expansion: Nasal Piercings Manipulator
    <br />
    github readme stats theme: shades-of-purple
   </p>
