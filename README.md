@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Play Matchmaker
+   npm expansion: Node Packaged Masterfully
    <br />
    github readme stats theme: prussian
   </p>
