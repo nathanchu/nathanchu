@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newton's Poleless Magnet
+   npm expansion: Needle-Pinpointing Machine
    <br />
    github readme stats theme: graywhite
   </p>
