@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newly Practicing Mortician
+   npm expansion: Neoplastic Plasma Medusa
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
