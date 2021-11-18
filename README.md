@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Practitioners of Magic
+   npm expansion: Neon Papier Mâché
    <br />
    github readme stats theme: solarized-dark
   </p>
