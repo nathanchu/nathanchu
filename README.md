@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nondigestible Purple Mayonnaise
+   npm expansion: Normal People,  MMM!
    <br />
    github readme stats theme: graywhite
   </p>
