@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Normal Polygamous Marriage
+   npm expansion: Nickel Plated Moose
    <br />
    github readme stats theme: dark
   </p>
