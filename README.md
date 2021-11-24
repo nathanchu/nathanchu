@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Pajama Mutants
+   npm expansion: Narcoleptic's Patch Mangler
    <br />
    github readme stats theme: slateorange
   </p>
