@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neighbor's Preppy Maltese
+   npm expansion: Needful Program Management
    <br />
    github readme stats theme: bear
   </p>
