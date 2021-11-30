@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nobody Packages More
+   npm expansion: National Park of Minnesota
    <br />
    github readme stats theme: blueberry
   </p>
