@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Now Particularly Misnamed
+   npm expansion: Network Processor Module
    <br />
    github readme stats theme: darcula
   </p>
