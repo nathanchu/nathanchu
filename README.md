@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nasal Pathway Melodrama
+   npm expansion: Nu Pop Metal
    <br />
    github readme stats theme: nord
   </p>
