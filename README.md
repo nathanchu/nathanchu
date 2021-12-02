@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neverending Plethora of Modules
+   npm expansion: Neatly Packaged Modules
    <br />
    github readme stats theme: react
   </p>
