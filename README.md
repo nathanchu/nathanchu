@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neurosis Prevention Mechanism
+   npm expansion: Null Pointer Mayhem
    <br />
    github readme stats theme: material-palenight
   </p>
