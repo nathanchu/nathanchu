@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nit-Picking Manager
+   npm expansion: Natural Preference for Minification
    <br />
    github readme stats theme: onedark
   </p>
