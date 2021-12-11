@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Painful Merges
+   npm expansion: Notoriously Punctual Manatee
    <br />
    github readme stats theme: monokai
   </p>
