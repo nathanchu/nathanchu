@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nature's Powerful Meme
+   npm expansion: Nimble Polyglot Microcosm
    <br />
    github readme stats theme: highcontrast
   </p>
