@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nerfed Poet Melancholia
+   npm expansion: Nervously Proposing Marriage
    <br />
    github readme stats theme: nord
   </p>
