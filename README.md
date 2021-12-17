@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Padding Module
+   npm expansion: Non-Polynomial Mantissa
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
