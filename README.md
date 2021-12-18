@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nautical Pirate Moustache
+   npm expansion: Neglected Puppy Market
    <br />
    github readme stats theme: highcontrast
   </p>
