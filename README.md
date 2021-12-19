@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Navel Piercing Madness
+   npm expansion: Nylon Pendulum Movement
    <br />
    github readme stats theme: highcontrast
   </p>
