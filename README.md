@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nimble Pet Microbes
+   npm expansion: Natively Pronounced Mandarin
    <br />
    github readme stats theme: radical
   </p>
