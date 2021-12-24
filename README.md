@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noxious Plant Miasma
+   npm expansion: Node Pleases Me
    <br />
    github readme stats theme: prussian
   </p>
