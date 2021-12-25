@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Naboo's Podracing Misadventure
+   npm expansion: N00b Pwn M3
    <br />
    github readme stats theme: blueberry
   </p>
