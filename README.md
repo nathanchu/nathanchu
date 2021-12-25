@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neutralize Pesky Miscreants
+   npm expansion: Neurological Phenomenon Multiplexer
    <br />
    github readme stats theme: omni
   </p>
