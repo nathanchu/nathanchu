@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notwithstanding Precautions,  Misadventure
+   npm expansion: Newbie Paintball Master
    <br />
    github readme stats theme: gruvbox
   </p>
