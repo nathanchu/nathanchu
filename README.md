@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nineteen Poor Moths
+   npm expansion: Nine Pomeranian Monsters
    <br />
    github readme stats theme: darcula
   </p>
