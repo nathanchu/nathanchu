@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nourished Personal Mucus
+   npm expansion: Nine Pounds of Mayonnaise
    <br />
    github readme stats theme: onedark
   </p>
