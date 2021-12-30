@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Natural Pleistocene Monsters
+   npm expansion: Nose Picking Mechanisms
    <br />
    github readme stats theme: kacho_ga
   </p>
