@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nothing Precedes Matter
+   npm expansion: No Partying Mariachis
    <br />
    github readme stats theme: blueberry
   </p>
