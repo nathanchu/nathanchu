@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nana's Plush Muppet
+   npm expansion: Never Please Meanies
    <br />
    github readme stats theme: ayu-mirage
   </p>
