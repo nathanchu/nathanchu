@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node Pizza Maker
+   npm expansion: Ninety Percent Muffin
    <br />
    github readme stats theme: react
   </p>
