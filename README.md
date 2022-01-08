@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newly Practicing Mortician
+   npm expansion: Nonstop Perpetual Motion
    <br />
    github readme stats theme: ayu-mirage
   </p>
