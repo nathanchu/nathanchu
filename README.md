@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Propel Marmalade
+   npm expansion: Nuclear Planning Manual
    <br />
    github readme stats theme: dark
   </p>
