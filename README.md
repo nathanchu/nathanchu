@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nuclear Planning Manual
+   npm expansion: Next Prince Montage
    <br />
    github readme stats theme: dark
   </p>
