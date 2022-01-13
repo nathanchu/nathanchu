@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nestable Processes Mutate
+   npm expansion: Not a Penny More
    <br />
    github readme stats theme: buefy
   </p>
