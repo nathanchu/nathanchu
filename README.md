@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nosey Party Murderer
+   npm expansion: Nice Poodle,  Mister
    <br />
    github readme stats theme: dark
   </p>
