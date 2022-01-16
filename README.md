@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neanderthal Painting Monet
+   npm expansion: Norway Porridge Makers
    <br />
    github readme stats theme: flag-india
   </p>
