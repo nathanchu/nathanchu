@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node's Power Meal
+   npm expansion: Noodles,  Poodles and More!
    <br />
    github readme stats theme: buefy
   </p>
