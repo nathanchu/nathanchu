@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Naval Pilgrim's Mayflower
+   npm expansion: Never Pummel Muskoxen
    <br />
    github readme stats theme: highcontrast
   </p>
