@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Necessary Package Manager
+   npm expansion: Norvell's Public Machinations
    <br />
    github readme stats theme: nord
   </p>
