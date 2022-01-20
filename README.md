@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Necrotizing Pineapple Music
+   npm expansion: Nice Poodle,  Mister
    <br />
    github readme stats theme: vue
   </p>
