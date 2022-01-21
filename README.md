@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: New Programs Makers
+   npm expansion: Norway Porridge Makers
    <br />
    github readme stats theme: blue-green
   </p>
