@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: New Power Manual
+   npm expansion: Neural Processing Mechanisms
    <br />
    github readme stats theme: synthwave
   </p>
