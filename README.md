@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nihilistic Party Mantra
+   npm expansion: Ninja Power Manifesto
    <br />
    github readme stats theme: ayu-mirage
   </p>
