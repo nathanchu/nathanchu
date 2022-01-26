@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notorious Public Menace
+   npm expansion: Neti Pot Manufacturer
    <br />
    github readme stats theme: kacho_ga
   </p>
