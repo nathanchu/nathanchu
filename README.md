@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Non-Polite Mother
+   npm expansion: Network Powering Makers
    <br />
    github readme stats theme: blue-green
   </p>
