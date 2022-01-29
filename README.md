@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noisy Pirate Mutiny
+   npm expansion: Node Permanently Moved
    <br />
    github readme stats theme: slateorange
   </p>
