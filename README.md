@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noble Pug Mullet
+   npm expansion: Naughty Praying Mantis
    <br />
    github readme stats theme: omni
   </p>
