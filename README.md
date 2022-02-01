@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newman's Personal Motorcade
+   npm expansion: Nit-Picking Manager
    <br />
    github readme stats theme: cobalt
   </p>
