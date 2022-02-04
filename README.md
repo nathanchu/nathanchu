@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Novel Planetary Movement
+   npm expansion: Novelty Polygonal Mathematics
    <br />
    github readme stats theme: react
   </p>
