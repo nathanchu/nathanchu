@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nasty Pinguin Manure
+   npm expansion: Neutrinos Peludos Magnéticos
    <br />
    github readme stats theme: tokyonight
   </p>
