@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neverending Pile of Messages
+   npm expansion: Novel Planetary Movement
    <br />
    github readme stats theme: react
   </p>
