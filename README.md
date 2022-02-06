@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neo's Playing Morpheus
+   npm expansion: Nonagons Please Me
    <br />
    github readme stats theme: react
   </p>
