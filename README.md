@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nabbing Pleasant Monads
+   npm expansion: Nth Permutation Mathematics
    <br />
    github readme stats theme: calm
   </p>
