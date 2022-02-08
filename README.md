@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notwithstanding Previous Misdemeanors
+   npm expansion: Nothing Precedes Matter
    <br />
    github readme stats theme: radical
   </p>
