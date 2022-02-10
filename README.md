@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nebulous Program Mechanic
+   npm expansion: Nicely Pointed Mandibles
    <br />
    github readme stats theme: radical
   </p>
