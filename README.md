@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Now Playing Mario
+   npm expansion: November Papa Mike
    <br />
    github readme stats theme: graywhite
   </p>
