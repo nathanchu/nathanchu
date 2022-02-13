@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nebulae Populate M83
+   npm expansion: Nutrias Punching Marmots
    <br />
    github readme stats theme: chartreuse-dark
   </p>
