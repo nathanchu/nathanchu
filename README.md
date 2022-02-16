@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noodles,  Poodles and More!
+   npm expansion: Nihilist Postmodern Mistake
    <br />
    github readme stats theme: slateorange
   </p>
