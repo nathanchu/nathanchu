@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nightly Procrastination Machine
+   npm expansion: Nitrogen Poisonous Monoxide
    <br />
    github readme stats theme: dark
   </p>
