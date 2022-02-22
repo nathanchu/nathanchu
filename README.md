@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noisy Pterodactyl Melodies
+   npm expansion: Nourished Personal Mucus
    <br />
    github readme stats theme: highcontrast
   </p>
