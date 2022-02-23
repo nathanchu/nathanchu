@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nanobot: Polygonal Mascot
+   npm expansion: Node Packaged Masterfully
    <br />
    github readme stats theme: slateorange
   </p>
