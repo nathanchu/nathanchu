@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neverending Pun Machine
+   npm expansion: Newlywed Party Monsters
    <br />
    github readme stats theme: synthwave
   </p>
