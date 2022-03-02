@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Narcoleptic's Patch Mangler
+   npm expansion: Nine Pomeranian Monsters
    <br />
    github readme stats theme: prussian
   </p>
