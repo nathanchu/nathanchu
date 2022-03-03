@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noodles,  Poodles and More!
+   npm expansion: New Phone Models
    <br />
    github readme stats theme: blueberry
   </p>
