@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neurotic and Probably Misinformed
+   npm expansion: Nicely Pointed Mandibles
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
