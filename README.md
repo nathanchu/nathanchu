@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Norvell's Public Machinations
+   npm expansion: Nonsense Placement Mandatory
    <br />
    github readme stats theme: dark
   </p>
