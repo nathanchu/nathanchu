@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nefariously Programmed Mecha
+   npm expansion: Narwhals Poke Mammals
    <br />
    github readme stats theme: prussian
   </p>
