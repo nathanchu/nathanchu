@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nice Package,  Mate
+   npm expansion: Novices Performing Miracles
    <br />
    github readme stats theme: yeblu
   </p>
