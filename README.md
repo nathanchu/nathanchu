@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node's Perpetuum Mobile
+   npm expansion: Narwhal Parade Maestro
    <br />
    github readme stats theme: algolia
   </p>
