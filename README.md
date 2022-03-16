@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nanoseconds Produce Minutes
+   npm expansion: Nancy's Preferred Machete
    <br />
    github readme stats theme: synthwave
   </p>
