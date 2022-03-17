@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neoclassical Programming Multitude
+   npm expansion: Nose Picking Mechanisms
    <br />
    github readme stats theme: bear
   </p>
