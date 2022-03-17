@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: npm provides modules
+   npm expansion: Never Please Meanies
    <br />
    github readme stats theme: prussian
   </p>
