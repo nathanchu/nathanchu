@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Push Mistakes
+   npm expansion: Navel Piercing Madness
    <br />
    github readme stats theme: merko
   </p>
