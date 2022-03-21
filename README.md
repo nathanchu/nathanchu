@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Problem Mate
+   npm expansion: Nutrias Punching Marmots
    <br />
    github readme stats theme: dark
   </p>
