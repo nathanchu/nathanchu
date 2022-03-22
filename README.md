@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Plugins; Monolithic
+   npm expansion: Nobody Pays (for) Magazines
    <br />
    github readme stats theme: synthwave
   </p>
