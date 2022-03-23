@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neoclassical Philosophic Musings
+   npm expansion: Neoclassical Programming Multitude
    <br />
    github readme stats theme: gruvbox
   </p>
