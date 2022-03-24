@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nagging Mario's Princess
+   npm expansion: Nostalgic Pizza Manager
    <br />
    github readme stats theme: darcula
   </p>
