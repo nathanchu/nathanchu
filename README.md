@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node Parcel Merchant
+   npm expansion: Nero Punished Miscreants
    <br />
    github readme stats theme: flag-india
   </p>
