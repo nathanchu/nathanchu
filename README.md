@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: North Pole Merriment
+   npm expansion: Narcoleptic's Patch Mangler
    <br />
    github readme stats theme: flag-india
   </p>
