@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: NeXTSTEP Programming Mastermind
+   npm expansion: Nap Power: Maximum
    <br />
    github readme stats theme: blue-green
   </p>
