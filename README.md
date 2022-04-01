@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nimble Porridge Muncher
+   npm expansion: Need Paper Mache
    <br />
    github readme stats theme: gruvbox
   </p>
