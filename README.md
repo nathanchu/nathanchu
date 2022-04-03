@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nondeterministic Polynomial Munchies
+   npm expansion: Nimble Pet Microbes
    <br />
    github readme stats theme: buefy
   </p>
