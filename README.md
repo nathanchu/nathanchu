@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Novice,  Paragon,  Master
+   npm expansion: Nonconformist Propaganda Machine
    <br />
    github readme stats theme: gotham
   </p>
