@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nothing Plus Modules
+   npm expansion: Niche Portobello Mushroom
    <br />
    github readme stats theme: bear
   </p>
