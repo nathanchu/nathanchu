@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nocturnal Practitioners of Magic
+   npm expansion: Neurotic Pink Mongooses
    <br />
    github readme stats theme: vue-dark
   </p>
