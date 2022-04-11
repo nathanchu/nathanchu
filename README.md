@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nicely Packaged Make
+   npm expansion: Neurological Phenomenon Multiplexer
    <br />
    github readme stats theme: monokai
   </p>
