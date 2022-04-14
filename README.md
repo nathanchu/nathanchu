@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nozzle Piping Mismatch
+   npm expansion: Nibbling Pastry Monster
    <br />
    github readme stats theme: prussian
   </p>
