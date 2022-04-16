@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neoprene Party Masks
+   npm expansion: Notable Pseudocode Mashups
    <br />
    github readme stats theme: algolia
   </p>
