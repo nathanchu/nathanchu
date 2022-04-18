@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Noodly Pasta Maker
+   npm expansion: Notorious Public Menace
    <br />
    github readme stats theme: synthwave
   </p>
