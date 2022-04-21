@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nimble Pixie Merchant
+   npm expansion: Neverending Plethora of Modules
    <br />
    github readme stats theme: calm
   </p>
