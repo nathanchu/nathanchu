@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neurotic Pantaloon Maker
+   npm expansion: Napoleon's Pixelated Mugshot
    <br />
    github readme stats theme: flag-india
   </p>
