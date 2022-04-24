@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nicotine Powered Man
+   npm expansion: Nightly Piano Man
    <br />
    github readme stats theme: material-palenight
   </p>
