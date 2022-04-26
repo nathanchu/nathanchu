@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Ne Pas Manger!
+   npm expansion: Never Prank Me
    <br />
    github readme stats theme: solarized-dark
   </p>
