@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Node Packaged Masterfully
+   npm expansion: Node Promiscuous Modules
    <br />
    github readme stats theme: vue-dark
   </p>
