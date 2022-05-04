@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Novelty Polygonal Mathematics
+   npm expansion: Nineteen Poor Moths
    <br />
    github readme stats theme: prussian
   </p>
