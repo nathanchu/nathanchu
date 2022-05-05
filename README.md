@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neutrino Packing Machine
+   npm expansion: Nucleophosmin
    <br />
    github readme stats theme: yeblu
   </p>
