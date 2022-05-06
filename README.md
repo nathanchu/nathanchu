@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: No Python Modules
+   npm expansion: Needful Program Management
    <br />
    github readme stats theme: slateorange
   </p>
