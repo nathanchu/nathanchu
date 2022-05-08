@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: npm promotes metadefinitions
+   npm expansion: Nasal Pathway Melodrama
    <br />
    github readme stats theme: radical
   </p>
