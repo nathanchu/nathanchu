@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nuclear Powered Mushroom
+   npm expansion: Neato Polyester Material
    <br />
    github readme stats theme: radical
   </p>
