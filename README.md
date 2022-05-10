@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neoclassical Piano Montage
+   npm expansion: Natively Pluggable Module
    <br />
    github readme stats theme: midnight-purple
   </p>
