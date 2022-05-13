@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Need Private Modules
+   npm expansion: Nutella Per Minute
    <br />
    github readme stats theme: midnight-purple
   </p>
