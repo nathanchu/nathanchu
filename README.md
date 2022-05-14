@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Norse Power Metal
+   npm expansion: Naming Prosecution Mitigator
    <br />
    github readme stats theme: jolly
   </p>
