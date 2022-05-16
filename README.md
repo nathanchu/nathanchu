@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Naive Props Mutation
+   npm expansion: Narcissistic Passion Minified
    <br />
    github readme stats theme: blue-green
   </p>
