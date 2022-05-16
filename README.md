@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nosferatu's Pace Maker
+   npm expansion: Nouveau Papier Mâché
    <br />
    github readme stats theme: dark
   </p>
