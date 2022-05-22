@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nihilist Postmodern Mistake
+   npm expansion: Nightly Punk Masters
    <br />
    github readme stats theme: onedark
   </p>
