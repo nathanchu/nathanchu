@@ -1,16 +1,16 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nerd Play Mate
+   npm expansion: Neapolitan Pizza Margherita
    <br />
-   github readme stats theme: monokai
+   github readme stats theme: shades-of-purple
   </p>
   <h1 align="center">
     Nathan Chu&nbsp;&nbsp;&nbsp;<a href="https://nathanchu.com/"><img height="24" width="24" src="https://raw.githubusercontent.com/nathanchu/nathanchu/master/assets/link.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/nathanchu"><img height="24" width="24" src="https://raw.githubusercontent.com/nathanchu/nathanchu/master/assets/github-mark.svg" /></a></h1>
   <div>
-    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.nathanchu.vercel.app/api?username=nathanchu&cache_seconds=1800&count_private=true&include_all_commits=true&line_height=27&theme=monokai&show_icons=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.nathanchu.vercel.app/api/top-langs?username=nathanchu&cache_seconds=1800&theme=monokai" />
+    <img alt="Nathan Chu's Github Stats" src="https://github-readme-stats.nathanchu.vercel.app/api?username=nathanchu&cache_seconds=1800&count_private=true&include_all_commits=true&line_height=27&theme=shades-of-purple&show_icons=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.nathanchu.vercel.app/api/top-langs?username=nathanchu&cache_seconds=1800&theme=shades-of-purple" />
     <br />
-    <img alt="Top Languages" src="https://github-readme-stats.nathanchu.vercel.app/api/wakatime?username=nathanchu&cache_seconds=1800&layout=compact&theme=monokai" />
+    <img alt="Top Languages" src="https://github-readme-stats.nathanchu.vercel.app/api/wakatime?username=nathanchu&cache_seconds=1800&layout=compact&theme=shades-of-purple" />
     <sub><p align="center">⚡️ by <a target="_blank" href="https://git.io/readme-stats">git.io/readme-stats</a></p></sub>
   </div>
 </div>
@@ -25,7 +25,7 @@
     🔭 I’m currently working on:
     <br />
     <br />
-    <a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=monokai" /></a>
+    <a href="https://github.com/rayyansaidi-com/app"><img alt="rayyansaidi-com/app" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=rayyansaidi-com&repo=app&show_owner=true&cache_seconds=1800&theme=shades-of-purple" /></a>
    </li>
    <br />
    <br />
@@ -33,7 +33,7 @@
     🌱 I’m currently learning:
     <br />
     <br />
-    <a href="https://github.com/facebook/react"><img alt="react" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme=monokai" /></a>
+    <a href="https://github.com/facebook/react"><img alt="react" src="https://github-readme-stats.nathanchu.vercel.app/api/pin?username=facebook&repo=react&cache_seconds=1800&theme=shades-of-purple" /></a>
    </li>
    <li>
     👯 I’m looking to collaborate on ...
