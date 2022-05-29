@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nineties Pop Music
+   npm expansion: Never Perfectly Managed
    <br />
    github readme stats theme: prussian
   </p>
