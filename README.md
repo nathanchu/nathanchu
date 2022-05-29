@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neurotic Pantaloon Maker
+   npm expansion: National Patience Month
    <br />
    github readme stats theme: chartreuse-dark
   </p>
