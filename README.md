@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neoclassic Placebo Maker
+   npm expansion: Naive Props Mutation
    <br />
    github readme stats theme: highcontrast
   </p>
