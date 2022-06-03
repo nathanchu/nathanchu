@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nanotechnology Promises Much
+   npm expansion: Nacho Portion Monitor
    <br />
    github readme stats theme: monokai
   </p>
