@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Propel Marmalade
+   npm expansion: Next Phenomenal Microbrewery
    <br />
    github readme stats theme: great-gatsby
   </p>
