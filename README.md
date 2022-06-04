@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: National Party Month
+   npm expansion: Nacho Portion Monitor
    <br />
    github readme stats theme: vision-friendly-dark
   </p>
