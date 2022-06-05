@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Novelty Polygonal Mathematics
+   npm expansion: Not Pancake Mix
    <br />
    github readme stats theme: blue-green
   </p>
