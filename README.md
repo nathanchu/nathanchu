@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Ninety-nine Pitchers of Malt
+   npm expansion: Nervous Parrot Muttering
    <br />
    github readme stats theme: synthwave
   </p>
