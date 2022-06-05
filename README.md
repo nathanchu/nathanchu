@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nervous Parrot Muttering
+   npm expansion: Nonsense Parser Microframework
    <br />
    github readme stats theme: synthwave
   </p>
