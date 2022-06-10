@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nightly Perpetrated Mischief
+   npm expansion: Natural Pacifist Manatees
    <br />
    github readme stats theme: merko
   </p>
