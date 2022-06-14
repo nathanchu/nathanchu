@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Naughty Programmer's Madness
+   npm expansion: Nothing Precedes Matter
    <br />
    github readme stats theme: solarized-light
   </p>
