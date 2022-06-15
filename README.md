@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Novice Pokémon Master
+   npm expansion: Nothing Prevents Misery
    <br />
    github readme stats theme: onedark
   </p>
