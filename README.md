@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nightly Panic Munchies
+   npm expansion: Nutritious Polygonal Meatball
    <br />
    github readme stats theme: gotham
   </p>
