@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nine Percent Milk
+   npm expansion: Nice Package,  Mate
    <br />
    github readme stats theme: highcontrast
   </p>
