@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nifty Purring Manticore
+   npm expansion: Nephrite Power Mace
    <br />
    github readme stats theme: dark
   </p>
