@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Newly Picked Mangoes
+   npm expansion: Neptunian Parity Mnemonic
    <br />
    github readme stats theme: jolly
   </p>
