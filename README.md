@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Non Productive Monday
+   npm expansion: Nightingale Posing Mischievously
    <br />
    github readme stats theme: maroongold
   </p>
