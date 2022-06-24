@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nothing Pleases Me
+   npm expansion: Novel Preposterous Mockery
    <br />
    github readme stats theme: highcontrast
   </p>
