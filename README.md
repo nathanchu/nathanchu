@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Non Polar Magnetism
+   npm expansion: Ninety-nine Pitchers of Malt
    <br />
    github readme stats theme: tokyonight
   </p>
