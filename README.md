@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nascent Plasticine Materialist
+   npm expansion: Nostalgic Punchcard Missing
    <br />
    github readme stats theme: graywhite
   </p>
