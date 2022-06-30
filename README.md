@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neanderthals Programming Machines
+   npm expansion: November Papa Mike
    <br />
    github readme stats theme: chartreuse-dark
   </p>
