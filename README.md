@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Pet Mermaids
+   npm expansion: Norse Polytheistic Mythology
    <br />
    github readme stats theme: midnight-purple
   </p>
