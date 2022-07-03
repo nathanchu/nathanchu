@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Never Punch Manticores
+   npm expansion: New Prog Mixtape
    <br />
    github readme stats theme: dark
   </p>
