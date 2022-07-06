@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: November Perfect Moustache
+   npm expansion: North Pole Merriment
    <br />
    github readme stats theme: darcula
   </p>
