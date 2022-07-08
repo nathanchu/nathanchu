@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Neutron Polarization Manipulator
+   npm expansion: Nabbing Pleasant Monads
    <br />
    github readme stats theme: dark
   </p>
