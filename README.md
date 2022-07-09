@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Need Private Modules
+   npm expansion: Netherworld's Pretend Minibar
    <br />
    github readme stats theme: monokai
   </p>
