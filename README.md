@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nefariously Pushing Master
+   npm expansion: Nil Packet Minimizer
    <br />
    github readme stats theme: react
   </p>
