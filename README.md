@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Notoriously Pedantic Magistrate
+   npm expansion: Now Package More
    <br />
    github readme stats theme: blue-green
   </p>
