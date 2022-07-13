@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Navel Pondering Mantra
+   npm expansion: Nonlinear Performance Magnification
    <br />
    github readme stats theme: slateorange
   </p>
