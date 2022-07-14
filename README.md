@@ -1,6 +1,6 @@
  <div align="center">
   <p align="left">
-   npm expansion: Nanotech Parading Mars
+   npm expansion: Ninja Power Manifesto
    <br />
    github readme stats theme: yeblu
   </p>
